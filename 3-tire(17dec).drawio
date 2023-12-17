@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T13:12:34.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yh7fY64j0hflTFKdt8OI" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T13:13:57.297Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eTkcidcggM_Cocp44N-Q" version="22.1.11" type="github">
   <diagram name="Page-1" id="aRuCgZtnoSvNG3mgIwN0">
-    <mxGraphModel dx="2261" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,10 +175,10 @@
         <mxCell id="3UgUi8umlS0cr7r5IpCt-1" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#191596;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="204" y="-130" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DM1UtvMPjDICMWByIDXx-2" value="bastion host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DM1UtvMPjDICMWByIDXx-2" value="bastion host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DM1UtvMPjDICMWByIDXx-3" value="bastion host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DM1UtvMPjDICMWByIDXx-3" value="bastion host" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
